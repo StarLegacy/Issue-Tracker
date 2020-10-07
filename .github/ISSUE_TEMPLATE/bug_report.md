@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+<!-- IF YOU ERASE THIS FORM OR DON'T FILL OUT ALL THE INFO YOUR ISSUE WILL BE IGNORED AND CLOSED WITH NO FURTHER WARNING OR NOTICE -->
+
 **Describe the bug**
 <!-- A clear and concise description of what the bug is. -->
 
